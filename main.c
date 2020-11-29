@@ -1,3 +1,9 @@
+/* Terminated on July 12 2019 by Huy P */
+/* 
+   Code was written in C 
+   Please remember to download some libraries.
+   Use Arduino IDE
+*/
 /* NLTNC = Number(s) in This Line Need(s) to be Changed (NTLNC)*/
 #include <Servo.h> //My lungs are black, my heart is pure
 #include <Wire.h>; //My hands are scarred from nights before
